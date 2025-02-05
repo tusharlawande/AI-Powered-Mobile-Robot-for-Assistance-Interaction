@@ -135,4 +135,12 @@ This AI-powered mobile robot is designed to be cost-effective and multifunctiona
 ---
 ## **10. Need Further Assistance?**
 If you have questions or need modifications, feel free to ask!
+## License
+This project is licensed under the MIT License.
+
+## Contact
+- **Author**: Tushar Lawande
+- **Email**: tusharlawande1010@gmail.com
+- **GitHub**: [tushar-lawande](https://github.com/tushar-lawande)
+- **LinkedIn**: [linkedin.com/in/tusharlawande](https://linkedin.com/in/tusharlawande)
 
